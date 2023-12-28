@@ -1,5 +1,4 @@
-Welcome to my new dbt project!
-
+![Alt text]([image link](https://github.com/jaswanth333/azure-dbt-spark-modeling/blob/master/Flow%20Diagram.png))
 
 1. Data Extraction & Storage: Initially, data is gathered from Azure SQL tables. Azure Data Factory copies and loads this data into Azure Data Lake Gen 2 Storage. The data is stored in a raw format called bronze layer using Parquet files.
 
