@@ -1,7 +1,7 @@
 <h3 align='center'>README file updatation in progress....</h3>
 
 # Architecture
-![image link](https://github.com/jaswanth333/azure-dbt-spark-modeling/blob/master/Flow%20Diagram.png)
+![image link](https://github.com/jaswanth333/azure-dbt-spark-modeling/blob/master/images/Flow%20Diagram.png)
 
 # Process
 <strong>1. Data Extraction & Storage:</strong> Initially, data is gathered from Azure SQL tables. Azure Data Factory copies and loads this data into Azure Data Lake Gen 2 Storage. The data is stored in a raw format called bronze layer using Parquet files.
